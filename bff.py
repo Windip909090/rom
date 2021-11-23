@@ -85,7 +85,7 @@ user_agentz_qu = ["Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/2010
 headerz = {"User-Agent": user_agentz}
 headerz_api = {"User-Agent": user_agentz_api}
 
-#def konfir():
+def konfir():
 	try:
 		#lis = open ("data/lisensi.txt","r").read()
 	except IOError:
